@@ -1,1 +1,1 @@
-# eco-habit
+# ecohabit-ai
